@@ -20,12 +20,12 @@ predictions.csv - This csv file contains the input data observation and output p
 **distilBERT_NN.ipynb** - This is distilBERT with a Neural Network as the final layer for classification.
 **CosineSimilarity.ipynb** - This is the cosine similarity final head for classification on top of the embeddings from distilBERT.
 
-**distilBERT_LoRA_body_LRonly.ipynb** - This model uses distilBERT with LORA to classify full texts as either Left or Right (not four classes).
-**distilBERT_LoRA_body.ipynb** - This model uses distilBERT with LORA to classify full texts across the four classes.
-**distilBERT_LoRA_headline.ipynb** - This model uses distilBERT with LORA to classify headlines.
-**distilBERT_LoRA_healine_LRonly.ipynb** - This model uses distilBERT with LORA to classify headlines as Left or Right only (not four classes).
-**distilBERT_LoRA_lead.ipynb** - This model uses distilBERT with LORA to classify th lead across the four labels.
-**distilBERT_LoRA_summary.ipynb** - This model uses distilBERT with LORA to classify a summary of the text across the four labels.
+**distilBERT_LoRA_body_LRonly.ipynb** - This model uses distilBERT with LORA to classify full texts as either Left or Right (not four classes). \
+**distilBERT_LoRA_body.ipynb** - This model uses distilBERT with LORA to classify full texts across the four classes. \
+**distilBERT_LoRA_headline.ipynb** - This model uses distilBERT with LORA to classify headlines. \
+**distilBERT_LoRA_healine_LRonly.ipynb** - This model uses distilBERT with LORA to classify headlines as Left or Right only (not four classes). \
+**distilBERT_LoRA_lead.ipynb** - This model uses distilBERT with LORA to classify th lead across the four labels. \
+**distilBERT_LoRA_summary.ipynb** - This model uses distilBERT with LORA to classify a summary of the text across the four labels. \
 
 # Additional Analysis
 the **analysis** folder contains additional analysis, models and results we used to develop out methodology. It can also be used to generate specific results for models.
