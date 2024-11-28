@@ -1,0 +1,16 @@
+os
+pandas
+numpy
+transformers
+torch
+datasets
+peft
+evaluate
+sklearn
+nltk
+preprocessor
+gensim
+wordcloud
+re
+contractions
+matplotlib
